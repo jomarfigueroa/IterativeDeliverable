@@ -10,7 +10,7 @@ namespace IterativeDeliverable
 
             try
             {
-                // read what the person typed
+                // read what the person typed in
                 string input = Console.ReadLine();
                 int number = int.Parse(input); // assign it
 
